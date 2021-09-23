@@ -3,7 +3,7 @@
 }
 body{
     background:linear-gradient(45deg,limegreen,coral,limegreen);
-
+    
 }
 #header{
     background:black;
@@ -15,6 +15,9 @@ body{
     float: left;
     line-height: 60px;
     color: cornsilk;
+}
+#menu{
+    text-align: center
 }
 a{
     color: cornsilk;
@@ -40,6 +43,11 @@ img{
     margin-top:30px;
     margin-bottom: 10;
 }
+#burger{
+    text-align:center;
+    margin-top:30px;
+    margin-bottom: 10;
+}
 #dp{
     background:linear-gradient(45deg,darkred,black);
     width: 50%;
@@ -53,4 +61,34 @@ img{
     text-align:center;
     background: black;
     color: white;
+}
+#db{
+    background:linear-gradient(45deg,darkred,black);
+    width: 50%;
+    color: white;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 50%;
+    text-align:center
+}
+#FrenchFries{
+    text-align:center;
+    margin-top:30px;
+    margin-bottom: 10;
+}
+#df{
+    background:linear-gradient(45deg,darkred,black);
+    width: 50%;
+    color: white;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 50%;
+    text-align:center
+}
+i{
+    margin:25px;
+   
+}
+#copyr{
+    margin-top: 10px;
 }
